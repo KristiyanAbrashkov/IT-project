@@ -4,11 +4,19 @@ body{
 }
 div{
     font-weight: bold;
-    font-size: 175%;
-    color: rgba(31, 230, 31, 0.842);
-    margin-top: 24%;
+    font-size: 200%;
+    color: rgba(21, 52, 228, 0.842);
+    margin-top: 14%;
+    margin-right: 0.5%;
     text-align: center;
 }
 #motto{
-    padding-top: 0.5%;
+    padding-top: 0.3%;
+}
+#text{
+    text-align: center;
+    font-size: 210%;
+    color: yellow;
+    margin-top: 6%;
+    margin-right: 5%;
 }
