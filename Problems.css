@@ -1,0 +1,24 @@
+*{text-align: center;}
+
+h1{
+    font-size:75px;
+    margin-top: 4%;
+    margin-bottom: 2%;
+  }
+
+p{
+    width:1830px;
+    font-size: 30px;
+    margin-bottom: 3%;
+}
+
+h2{
+    font-size:55px;
+    margin-top: 4%;
+    margin-bottom: 12px;
+}
+
+img{
+    width: 924px;
+    height: 476px;
+}
