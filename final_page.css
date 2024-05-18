@@ -1,26 +1,61 @@
+html{
+    height: 100%;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
 body{
     background-color: rgb(196, 216, 235);
 }
 h2{
+    margin-top: 5%;
     text-align: center;
     font-size: 240%;
     font-weight: bold;
 }
 h4{
+    color: rgba(11, 139, 11, 0.897);
     margin-top: 7%;
-    font-size: 140%;
+    font-size: 180%;
     text-align: center;
 }
 #list{
-    margin-top: 0%;
     margin-left: 10%;
 }
 .lists{
-    font-size: 130%;
+    color: rgba(5, 104, 5, 0.596);
+    font-size: 140%;
     display: flex;
     flex-direction: column;
     justify-content: space-between;     
-    padding-top: 1.5%;
-    margin-left: 10%;
+    padding-top: 1.2%;
     text-align: center;
+    margin-right: 17%;
+}
+#footer{
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: auto;
+    margin-left: 0%;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+}
+#copy{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#contacts{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
