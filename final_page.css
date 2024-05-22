@@ -16,7 +16,7 @@ h2{
     font-weight: bold;
 }
 h4{
-    color: rgba(11, 139, 11, 0.897);
+    color: rgba(23, 143, 23, 0.767);
     margin-top: 7%;
     font-size: 180%;
     text-align: center;
@@ -25,7 +25,7 @@ h4{
     margin-left: 10%;
 }
 .lists{
-    color: rgba(5, 104, 5, 0.596);
+    color: rgba(8, 68, 8, 0.712);
     font-size: 140%;
     display: flex;
     flex-direction: column;
@@ -40,7 +40,7 @@ h4{
     flex-direction: row;
     justify-content: center;
     justify-content: space-between;
-    background-color: black;
+    background-color: rgba(63, 60, 60, 0.836);
     color: white;
     text-align: center;
     margin-top: auto;
