@@ -1,7 +1,7 @@
 body 
 {
     font-family: Arial, sans-serif;
-    background-color: rgba(229, 235, 247, 0.89);
+    background-color: rgba(128, 161, 221, 0.89);
     color: #333;
     margin: 0;
     padding: 0;
@@ -9,8 +9,8 @@ body
 
 h1 
 {
-    color: #070064;
-    background-color: rgba(128, 161, 221, 0.89);
+    color: #ffffff;
+    background-color: rgba(28, 121, 243, 0.863);
     text-align: center;
     padding: 20px;
     margin: 0;
@@ -18,7 +18,7 @@ h1
 
 h2 
 {
-    color: #070064;
+    color: #000000;
     line-height: 1.6;
     padding: 20px;
     margin: 0;
@@ -26,7 +26,7 @@ h2
 
 h3
 {
-    color: #070064;
+    color: #000000;
     line-height: 1.6;
     padding: 20px;
     margin: 0;
@@ -34,7 +34,7 @@ h3
 
 #h3
 {
-    color: #070064;
+    color: #000000;
     line-height: 1.6;
     padding: 20px;
     margin: 0;

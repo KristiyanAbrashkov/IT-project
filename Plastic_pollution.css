@@ -1,7 +1,7 @@
 body 
 {
     font-family: Arial, sans-serif;
-    background-color: #f0f8ff;
+    background-color: rgba(128, 161, 221, 0.89);
     color: #333;
     margin: 0;
     padding: 0;
@@ -9,19 +9,18 @@ body
 
 h1 
 {
-    color: #356d92;
+    color: #ffffff;
     text-align: center;
     padding: 20px;
-    background-color: #d9f4f8;
+    background-color: rgba(28, 121, 243, 0.863);
     margin: 0;
 }
 
 h2 
 {
-    color: #395a70;
+    color: #000000;
     line-height: 1.6;
     padding: 20px;
-    background-color: #f0fff0;
     margin: 0;
 }
 
