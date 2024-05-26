@@ -1,24 +1,30 @@
-*{text-align: center;}
+* {
+    text-align: center;
+}
 
-h1{
-    font-size:75px;
+h1 {
+    font-size: 75px;
     margin-top: 4%;
     margin-bottom: 2%;
-  }
+}
 
-p{
-    width:1830px;
+p {
+    width: 80%;
+    max-width: 1000px;
     font-size: 30px;
-    margin-bottom: 3%;
+    margin: 0 auto 3%;
 }
 
-h2{
-    font-size:55px;
-    margin-top: 4%;
-    margin-bottom: 12px;
+a {
+    display: block;
+    font-size: 55px;
+    margin: 4% auto 12px;
 }
 
-img{
-    width: 924px;
-    height: 476px;
+img {
+    width: 80%;
+    max-width: 1000px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
 }
