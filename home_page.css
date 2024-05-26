@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(133, 172, 243);
+}
+#div{  
+    font-weight: bold;
+    font-size: 200%;
+    color: rgba(0, 0, 0, 0.842);
+    margin-top: 12%;
+    margin-left: 5%;
+    text-align: left;
+}
+#motto{
+    padding-top: 0.3%;
+}
+#text{
+    text-align: left;
+    font-size: 210%;
+    color: rgb(245, 245, 237);
+    margin-top: 8%;
+    margin-left: -1%;
+}
+#img{
+    margin-top: -12%;
+    margin-right: 4%;
+    float: right;
+    height: 15%;
+    width: 25%;
+}
+.row{
+display: flex;
+flex-direction: row;
+    justify-content: space-between;
+}
