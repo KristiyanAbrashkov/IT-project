@@ -1,7 +1,7 @@
 body 
 {
     font-family: Arial, sans-serif;
-    background-color: #ffffff;
+    background-color: rgba(229, 235, 247, 0.89);
     color: #333;
     margin: 0;
     padding: 0;
@@ -12,7 +12,6 @@ h1
     color: #070064;
     text-align: center;
     padding: 20px;
-    background-color: rgba(150, 175, 223, 0.89);
     margin: 0;
 }
 
@@ -21,7 +20,6 @@ h2
     color: #070064;
     line-height: 1.6;
     padding: 20px;
-    background-color: #ffffff;
     margin: 0;
 }
 
@@ -30,7 +28,6 @@ h3
     color: #070064;
     line-height: 1.6;
     padding: 20px;
-    background-color: #ffffff;
     margin: 0;
 }
 
@@ -39,7 +36,6 @@ h3
     color: #070064;
     line-height: 1.6;
     padding: 20px;
-    background-color: #ffffff;
     margin: 0;
 }
 
@@ -53,11 +49,4 @@ input
     text-align: left;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-style: italic;
-}
-
-img
-{
-    width: 40%;
-    margin-left: 20px;
-    border-radius: 2%;
 }
