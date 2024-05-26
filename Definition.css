@@ -48,6 +48,13 @@ input
     margin-left: 20px;
 }
 
+#text
+{
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+
 img
 {
     width: 40%;
