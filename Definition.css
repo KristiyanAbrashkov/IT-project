@@ -9,16 +9,16 @@ body
 
 h1 
 {
-    color: #704900;
+    color: #070064;
     text-align: center;
     padding: 20px;
-    background-color: #fdfbe7;
+    background-color: rgba(150, 175, 223, 0.89);
     margin: 0;
 }
 
 h2 
 {
-    color: #704900;
+    color: #070064;
     line-height: 1.6;
     padding: 20px;
     background-color: #ffffff;
@@ -27,7 +27,7 @@ h2
 
 h3
 {
-    color: #704900;
+    color: #070064;
     line-height: 1.6;
     padding: 20px;
     background-color: #ffffff;
@@ -36,7 +36,7 @@ h3
 
 #h3
 {
-    color: #704900;
+    color: #070064;
     line-height: 1.6;
     padding: 20px;
     background-color: #ffffff;
